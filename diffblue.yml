@@ -1,2 +1,2 @@
-testCmd: mvn compile
-buildCmd: mvn build
+testCmd: mvn test
+buildCmd: mvn compile
