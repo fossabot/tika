@@ -1,2 +1,2 @@
-testCmd: mvn test
-buildCmd: mvn compile
+testCmd: cd tika-batch; mvn test
+buildCmd: cd tika-batch; mvn compile
