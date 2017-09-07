@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froyletron%2Ftika.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Froyletron%2Ftika?ref=badge_shield)
+
 Welcome to Apache Tika  <http://tika.apache.org/>
 =================================================
 
@@ -83,3 +85,7 @@ Issue Tracker
 -------------
 
 If you encounter errors in Tika or want to suggest an improvement or a new feature, please visit the [Tika issue tracker](https://issues.apache.org/jira/browse/TIKA). There you can also find the latest information on known issues and recent bug fixes and enhancements.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froyletron%2Ftika.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Froyletron%2Ftika?ref=badge_large)
